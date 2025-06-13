@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #f6f6f6;
+  color: #333;
+}
+
+h1, h2 {
+  color: #2c3e50;
+}
+
+form input {
+  margin: 5px;
+  padding: 8px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+tr.alerta {
+  background-color: #f8d7da;
+}
